@@ -1,4 +1,4 @@
-Fibonacci‑Spiral Hyper‑Parameter Search
+# Fibonacci‑Spiral Hyper‑Parameter Search
 
 ### A Non‑Linear Alternative to GridSearchCV
 
